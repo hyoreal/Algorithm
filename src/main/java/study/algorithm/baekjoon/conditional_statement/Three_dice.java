@@ -22,7 +22,7 @@ import java.util.StringTokenizer;
  * 첫째 줄에 3개의 눈이 빈칸을 사이에 두고 각각 주어진다.
  */
 
-public class three_dice {
+public class Three_dice {
     public static void main(String[] args) throws IOException {
 
         // TODO: 첫번째 주사위의 눈 fst, 두번째 주사위의 눈 snd, 세번째 주사위의 눈 trd

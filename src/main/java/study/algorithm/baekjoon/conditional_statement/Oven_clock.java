@@ -17,7 +17,7 @@ import java.util.Scanner;
  * 두 번째 줄에는 요리하는 데 필요한 시간 C (0 ≤ C ≤ 1,000)가 분 단위로 주어진다.
  */
 
-public class oven_clock {
+public class Oven_clock {
     public static void main(String[] args) {
 
         // TODO: 현재시각 A시 B분, 필요시간 C분
