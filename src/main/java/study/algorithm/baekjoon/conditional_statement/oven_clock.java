@@ -1,4 +1,4 @@
-package study.algorithm;
+package study.algorithm.baekjoon.conditional_statement;
 
 import java.util.Scanner;
 
