@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
  * 각 테스트 케이스는 한 줄로 이루어져 있으며, 각 줄에 A와 B가 주어진다. (0 < A, B < 10)
  */
 
-public class A_plus_B_minus_three {
+public class A_plus_B_DashThree {
     public static void main(String[] args) throws IOException {
 
         // TODO: 테스트케이스 개수 T, 각 줄마다 A와 B
