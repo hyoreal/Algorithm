@@ -22,7 +22,6 @@ public class Remainder {
 
         Integer[] remain = new Integer[10];
         int idx = 0;
-        int count = 0;
 
         while (idx < 10) {
             remain[idx] = Integer.parseInt(br.readLine()) % 42;
